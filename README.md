@@ -1,4 +1,6 @@
+# Flask Chat App
 
+This is a chat application written in Flask. The purpose is to take data from URL and store the information in a list
 
 ## Gitpod Reminders
 
